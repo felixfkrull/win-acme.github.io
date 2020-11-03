@@ -9,7 +9,7 @@ To migrate to another machine, you may follow these steps.
 - [Decrypt](/manual/advanced-use/encryption) the configuration files. 
 - Review [settings.json](/reference/settings) to check if all paths and services 
 configured there are available on/from the new machine.
-- Review firewalls and other security settings to make sure than win-acme will be able 
+- Review firewalls and other security settings to make sure that win-acme will be able 
 to access all the resources it might need for validation (e.g. FTP services, 
 Azure Managed Resource Identity, etc.).
 
